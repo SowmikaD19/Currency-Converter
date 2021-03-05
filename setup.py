@@ -19,7 +19,7 @@ setup(
                   "Operating System :: OS Independent",
               ],
         install_requires=[],
-        url="https://github.com/SowmikaD19",
+        url="https://github.com/SowmikaD19/Currency_Converter.git",
         author='SOWMIKA D',
         author_email='<dsowmika19@gmail.com>'
 )
